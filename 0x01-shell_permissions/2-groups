@@ -1,3 +1,2 @@
 #!/bin/bash
 echo 'id -Gr'
-./2-groups
