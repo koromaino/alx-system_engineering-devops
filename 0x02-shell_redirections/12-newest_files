@@ -1,2 +1,2 @@
 #!/bin/bash
-ls 12-newest_files/ -Artls | tail -1
+ls -tl | head -n 10
